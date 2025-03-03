@@ -29,7 +29,7 @@ namespace TP03
 
             if (!string.IsNullOrEmpty(inputNama))
             {
-                label1.Text = "Halo, " + inputNama; 
+                label1.Text = inputNama; 
             }
             else
             {
